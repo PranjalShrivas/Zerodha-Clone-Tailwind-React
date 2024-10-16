@@ -15,7 +15,7 @@ export const Hero = () => {
           Online platform to invest in stocks, derivatives, mutual funds, ETFs,
           bonds, and more.
         </div>
-        <button className="bg-[#387ed1] cursor-pointer text-white py-[8px] px-[30px] text-xl font-medium rounded mt-[25px]">
+        <button className="bg-[#387ed1] cursor-pointer text-white py-[8px] px-[30px] text-xl font-medium rounded mt-[25px] hover:bg-black">
           Sign up for free
         </button>
       </div>

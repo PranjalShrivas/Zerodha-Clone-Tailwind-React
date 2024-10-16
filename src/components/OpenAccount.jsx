@@ -11,7 +11,7 @@ export const OpenAccount = () => {
           Modern platforms and apps,₹0 investments, and flat ₹20 intraday and
           F&O trades.
         </p>
-        <button className="bg-[#387ed1] cursor-pointer text-white py-[8px] px-[30px] text-xl font-medium rounded mt-[25px]">
+        <button className="bg-[#387ed1] cursor-pointer text-white py-[8px] px-[30px] text-xl font-medium rounded mt-[25px] hover:bg-black">
           Sign up for free
         </button>
       </div>
