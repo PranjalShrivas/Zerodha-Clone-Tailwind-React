@@ -62,8 +62,9 @@ export const Trust = () => {
           </div>
         </div>
       </div>
-      <div className="mt-16">
-        <img src={Press} className="mx-auto" alt="" />
+      <div className="mt-16 relative">
+        <img src={Press} className="mx-auto hover:cursor-pointer" alt="" />
+        <div class="absolute inset-0 bg-white opacity-0 hover:opacity-20 transition-opacity "></div>
       </div>
     </div>
   );
